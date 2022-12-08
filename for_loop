@@ -1,0 +1,19 @@
+// UC-1
+void main(){
+  for(int i = 0; i <= 10; i++){
+    print ('I am learning dart!');
+  }
+}
+
+//result:
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
+I am learning dart!
